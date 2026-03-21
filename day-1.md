@@ -7,7 +7,6 @@
 - [ ] Convert my first blog post into an actual webpages.
 
 ## Review
-## Review
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
