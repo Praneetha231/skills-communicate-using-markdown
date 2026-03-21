@@ -8,7 +8,6 @@
 
 ## Review
 
-### Cool Code Snippet
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
